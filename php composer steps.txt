@@ -9,3 +9,7 @@ Composer Download Link
 https://getcomposer.org/download/
 
 click on " Composer-Setup.exe" install it
+
+Composer Require command (in cmd)
+
+composer require php-webdriver/webdriver
